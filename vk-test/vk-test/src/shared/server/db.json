@@ -1,0 +1,221 @@
+{
+  "groups": {
+    "result": 1,
+    "data": [
+      {
+        "id": 201,
+        "name": "Фан-клуб 'Звездные войны'",
+        "closed": false,
+        "members_count": 25,
+        "avatar_color": "red",
+        "friends": [
+          {
+            "first_name": "Леонид",
+            "last_name": "Иванов"
+          },
+          {
+            "first_name": "Мария",
+            "last_name": "Петрова"
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Кулинарный клуб 'Вкусные рецепты'",
+        "closed": true,
+        "members_count": 10,
+        "avatar_color": "green"
+      },
+      {
+        "id": 203,
+        "name": "Путешественники 'Вокруг света'",
+        "closed": false,
+        "members_count": 30,
+        "avatar_color": "blue",
+        "friends": [
+          {
+            "first_name": "Андрей",
+            "last_name": "Сидоров"
+          },
+          {
+            "first_name": "Елена",
+            "last_name": "Смирнова"
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "name": "Садоводы 'Зеленый уголок'",
+        "closed": false,
+        "members_count": 15,
+        "avatar_color": "red"
+      },
+      {
+        "id": 205,
+        "name": "Фотографы 'Городские кадры'",
+        "closed": false,
+        "members_count": 20,
+        "avatar_color": "green",
+        "friends": [
+          {
+            "first_name": "Максим",
+            "last_name": "Козлов"
+          },
+          {
+            "first_name": "Анастасия",
+            "last_name": "Иванова"
+          }
+        ]
+      },
+      {
+        "id": 206,
+        "name": "Книжный клуб 'Читай и Размышляй'",
+        "closed": true,
+        "members_count": 12,
+        "avatar_color": "blue"
+      },
+      {
+        "id": 207,
+        "name": "Музыкальный коллектив 'Симфония'",
+        "closed": false,
+        "members_count": 18,
+        "avatar_color": "red",
+        "friends": [
+          {
+            "first_name": "Алексей",
+            "last_name": "Соколов"
+          },
+          {
+            "first_name": "Виктория",
+            "last_name": "Попова"
+          }
+        ]
+      },
+      {
+        "id": 208,
+        "name": "Спортивный клуб 'Активные друзья'",
+        "closed": false,
+        "members_count": 22,
+        "avatar_color": "green",
+        "friends": [
+          {
+            "first_name": "Дарья",
+            "last_name": "Егорова"
+          },
+          {
+            "first_name": "Артем",
+            "last_name": "Фомин"
+          }
+        ]
+      },
+      {
+        "id": 209,
+        "name": "Фитнес-группа 'Здоровое тело'",
+        "closed": false,
+        "members_count": 27,
+        "avatar_color": "blue"
+      },
+      {
+        "id": 210,
+        "name": "IT-клуб 'Кодеры'",
+        "closed": true,
+        "members_count": 11,
+        "avatar_color": "red"
+      },
+      {
+        "id": 211,
+        "name": "Творческий кружок 'Мастера рукоделия'",
+        "closed": false,
+        "members_count": 14,
+        "avatar_color": "green"
+      },
+      {
+        "id": 212,
+        "name": "Студенческая группа 'Первокурсники'",
+        "closed": false,
+        "members_count": 16,
+        "avatar_color": "blue",
+        "friends": [
+          {
+            "first_name": "Алиса",
+            "last_name": "Смирнова"
+          },
+          {
+            "first_name": "Михаил",
+            "last_name": "Кузнецов"
+          }
+        ]
+      },
+      {
+        "id": 213,
+        "name": "Кулинарный клуб 'Мастер-шефы'",
+        "closed": false,
+        "members_count": 29,
+        "avatar_color": "red"
+      },
+      {
+        "id": 214,
+        "name": "Фотографы 'Пейзажи и портреты'",
+        "closed": true,
+        "members_count": 9,
+        "avatar_color": "green"
+      },
+      {
+        "id": 215,
+        "name": "Автомобильный клуб 'Скорость'",
+        "closed": false,
+        "members_count": 19,
+        "avatar_color": "blue"
+      },
+      {
+        "id": 216,
+        "name": "Игровая команда 'Профессионалы'",
+        "closed": false,
+        "members_count": 24,
+        "avatar_color": "red"
+      },
+      {
+        "id": 217,
+        "name": "Танцевальная студия 'Ритм'",
+        "closed": false,
+        "members_count": 28,
+        "avatar_color": "green",
+        "friends": [
+          {
+            "first_name": "София",
+            "last_name": "Ковалева"
+          },
+          {
+            "first_name": "Игорь",
+            "last_name": "Попов"
+          }
+        ]
+      },
+      {
+        "id": 218,
+        "name": "Книжный клуб 'Литературные произведения'",
+        "closed": false,
+        "members_count": 26,
+        "avatar_color": "blue"
+      },
+      {
+        "id": 219,
+        "name": "Садоводы 'Цветочные украшения'",
+        "closed": true,
+        "members_count": 8,
+        "avatar_color": "red"
+      },
+      {
+        "id": 220,
+        "name": "Фотографы 'Уличные снимки'",
+        "closed": false,
+        "members_count": 21,
+        "avatar_color": "green"
+      }
+    ]
+  },
+  "colors": {
+    "result": 1,
+    "data": ["red", "green", "blue"]
+  }
+}
